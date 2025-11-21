@@ -1,4 +1,4 @@
-## Hello World! I'm Leonardo Pessoni 👋
+<h1 align="center"> Hello World! I'm Leonardo Pessoni 👋</h1>
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 Sou um desenvolvedor em formação na Fatec, apaixonado por transformar linhas de código em soluções. Atualmente estou aprimorando meus conhecimentos em desenvolvimento Web e Back-end.
