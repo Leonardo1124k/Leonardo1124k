@@ -20,8 +20,8 @@ Sou um desenvolvedor em formação na Fatec, apaixonado por transformar linhas d
 ### 📊 Minhas Estatísticas no GitHub
 <div align="center">
   <a href="https://github.com/Leonardo1124k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo1124k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1124k&layout=compact&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leonardo1124k&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1124k&layout=compact&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
