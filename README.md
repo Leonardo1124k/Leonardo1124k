@@ -1,32 +1,44 @@
-<h1 align="center"> Hello World! I'm Leonardo Pessoni 👋</h1>
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=2500&pause=900&color=FFA500&center=true&vCenter=true&width=450&lines=Hello+World!+%F0%9F%91%8B;I'm+Leonardo+Pessoni" alt="Typing SVG" />
+  </a>
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-Sou um desenvolvedor em formação na Fatec, apaixonado por transformar linhas de código em soluções. Atualmente estou aprimorando meus conhecimentos em desenvolvimento Web e Back-end.
+  <p>
+     <em>"Focado em transformar linhas de código em soluções para pessoas."</em>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/leonardopessoni/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:leonardopradopessoni@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leonardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Leonardo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Leonardo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+### 🚀 Sobre Mim
+
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas na **Fatec Franca** (2º Semestre)
+- 🔭 Atualmente trabalhando em Projeto Integrador para uma ONG (Java + PostgreSQL + Frontend)
+- 🎯 Foco de estudos em Backend e Desenvolvimento Web
+- 💻<strong> Em constante aprimoramento</strong>
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,postgres,git,vscode,figma&theme=dark" />
 </div>
 
-<br/>
+<br>
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Github Stats
+
 <div align="center">
-  <a href="https://github.com/Leonardo1124k">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leonardo1124k&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1124k&layout=compact&theme=dracula&hide_border=true"/>
-  </a>
 </div>
-
----
-
-### 📫 Como me encontrar
-[![Linkedin Badge](https://img.shields.io/badge/-Leonardo_Pessoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardopessoni/)](https://www.linkedin.com/in/leonardopessoni/)
-[![Gmail Badge](https://img.shields.io/badge/-leonardopradopessoni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardopradopessoni@gmail.com)](mailto:leonardopradopessoni@gmail.com)
