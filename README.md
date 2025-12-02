@@ -39,6 +39,6 @@
 ### 📊 Github Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leonardo1124k&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1124k&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180" width="auto" src="https://github-readme-stats-salesp07.vercel.app/api?username=Leonardo1124k&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img height="180em" width="auto" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Leonardo1124k&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
